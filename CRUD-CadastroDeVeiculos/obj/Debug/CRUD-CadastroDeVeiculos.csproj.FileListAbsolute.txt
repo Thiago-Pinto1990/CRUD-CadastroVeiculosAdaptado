@@ -1,0 +1,7 @@
+C:\Users\thiag\Documents\DIO\CRUD-CadastroDeVeiculos\CRUD-CadastroDeVeiculos\bin\Debug\CRUD-CadastroDeVeiculos.exe.config
+C:\Users\thiag\Documents\DIO\CRUD-CadastroDeVeiculos\CRUD-CadastroDeVeiculos\bin\Debug\CRUD-CadastroDeVeiculos.exe
+C:\Users\thiag\Documents\DIO\CRUD-CadastroDeVeiculos\CRUD-CadastroDeVeiculos\bin\Debug\CRUD-CadastroDeVeiculos.pdb
+C:\Users\thiag\Documents\DIO\CRUD-CadastroDeVeiculos\CRUD-CadastroDeVeiculos\obj\Debug\CRUD-CadastroDeVeiculos.csproj.AssemblyReference.cache
+C:\Users\thiag\Documents\DIO\CRUD-CadastroDeVeiculos\CRUD-CadastroDeVeiculos\obj\Debug\CRUD-CadastroDeVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\DIO\CRUD-CadastroDeVeiculos\CRUD-CadastroDeVeiculos\obj\Debug\CRUD-CadastroDeVeiculos.exe
+C:\Users\thiag\Documents\DIO\CRUD-CadastroDeVeiculos\CRUD-CadastroDeVeiculos\obj\Debug\CRUD-CadastroDeVeiculos.pdb
